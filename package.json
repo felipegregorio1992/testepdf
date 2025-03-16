@@ -1,0 +1,18 @@
+{
+  "name": "converter-imagem-para-pdf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "pdf-lib": "^1.17.1",
+    "qrcode-terminal": "^0.12.0",
+    "sharp": "^0.33.5",
+    "whatsapp-web.js": "^1.26.0"
+  }
+}
